@@ -26,6 +26,8 @@ class School
    end
    
    def sort{
-      
+      @roster = Hash[{
+        |
+      }]
    }
 end
