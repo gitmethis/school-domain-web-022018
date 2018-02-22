@@ -30,7 +30,9 @@ class School
         |key, value|
          key
       }]
-      puts roster
+      @roster.each{ |key|
+         @roster[key] = 
+      }
       @roster
    end
 end
