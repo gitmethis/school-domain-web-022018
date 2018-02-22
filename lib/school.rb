@@ -26,10 +26,10 @@ class School
    end
    
    def sort
-      @roster = Hash[@roster.sort_by[{
+      @roster = Hash[@roster.sort_by{
         |key, value|
         key
-      }
+      }]
       @roster
    end
 end
