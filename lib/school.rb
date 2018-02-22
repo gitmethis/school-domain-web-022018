@@ -25,7 +25,7 @@ class School
        @roster
    end
    
-   def self.sort{
+   def sort{
       
    }
 end
