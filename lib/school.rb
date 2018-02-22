@@ -26,7 +26,7 @@ class School
    end
    
    def sort{
-      @roster = Hash[{
+      @roster = Hash.sort_by[{
         |
       }]
    }
