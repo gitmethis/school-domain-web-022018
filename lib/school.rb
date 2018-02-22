@@ -26,6 +26,6 @@ class School
    end
    
    def self.sort{
-       @roster = Hash[]
+       @roster = Hash[ temp.sort_by]
    }
 end
