@@ -29,7 +29,7 @@ class School
       @roster = Hash.sort_by[{
         |key, value|
         key
-      }]
+      }
       @roster
    end
 end
