@@ -31,7 +31,7 @@ class School
          key
       }]
       @roster.each{ |key|
-         @roster[key] = 
+         @roster[key] = @roster[key].sort
       }
       @roster
    end
