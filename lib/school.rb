@@ -26,10 +26,6 @@ class School
    end
    
    def self.sort{
-       @roster = Hash[ temp.sort_by{
-         |key, value|
-         key
-       }]
-       @roster
+      
    }
 end
