@@ -26,6 +26,6 @@ class School
    end
    
    def self.sort{
-     
+       @
    }
 end
