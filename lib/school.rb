@@ -30,5 +30,6 @@ class School
          |key, value|
          key
        }]
+       @roster
    }
 end
