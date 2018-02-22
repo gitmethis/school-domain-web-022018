@@ -30,7 +30,7 @@ class School
         |key, value|
          key
       }]
-      @roster.each{ |key|
+      @roster.each { |key|
         @roster[key].sort!
       }
       @roster
