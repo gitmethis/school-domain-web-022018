@@ -24,4 +24,8 @@ class School
    def roster
        @roster
    end
+   
+   def self.sort{
+     
+   }
 end
